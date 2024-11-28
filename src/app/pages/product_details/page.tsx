@@ -11,9 +11,9 @@ const ProductDetail = () => {
         <div className="container-description">
           <h1 className="text-3xl font-bold mb-4">Decathlon Tribord Ultimate Disc 175g</h1>
           <p className="text-lg">
-            The Tribord Ultimate Disc is designed for ultimate performance in water sports. 
+            "The Tribord Ultimate Disc is designed for ultimate performance in water sports. 
             Made from high-quality materials, this disc offers precision and durability.
-            Perfect for water enthusiasts, it's lightweight yet robust.
+            Perfect for water enthusiasts, it's lightweight yet robust."
           </p>
         </div>
       </div>
